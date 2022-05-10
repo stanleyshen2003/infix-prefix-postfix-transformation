@@ -1,0 +1,5 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_infix_postfix_prefix_transformation\Form1.h(465): warning C4715: 'CppCLRWinFormsProject::Form1::pop': 不是所有控制路徑都傳回值
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_infix_postfix_prefix_transformation\Form1.h(495): warning C4715: 'CppCLRWinFormsProject::Form1::order': 不是所有控制路徑都傳回值
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  110705013_沈昱宏_infix_postfix_prefix_transformation.vcxproj -> C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_infix_postfix_prefix_transformation\x64\Debug\110705013_沈昱宏_infix_postfix_prefix_transformation.exe
